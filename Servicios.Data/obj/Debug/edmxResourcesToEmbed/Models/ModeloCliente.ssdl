@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Negocios2021_2xModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="clientes">
+    <Key>
+      <PropertyRef Name="IdCliente" />
+    </Key>
+    <Property Name="IdCliente" Type="varchar" MaxLength="5" Nullable="false" />
+    <Property Name="NomCliente" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="DirCliente" Type="varchar" MaxLength="60" Nullable="false" />
+    <Property Name="idpais" Type="char" MaxLength="3" />
+    <Property Name="fonoCliente" Type="varchar" MaxLength="25" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Negocios2021_2xModelStoreContainer">
+    <EntitySet Name="clientes" EntityType="Self.clientes" Schema="Ventas" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

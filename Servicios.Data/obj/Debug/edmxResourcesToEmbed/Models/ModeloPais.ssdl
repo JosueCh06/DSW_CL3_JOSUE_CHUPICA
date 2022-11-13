@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Negocios2021_2xModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="paises">
+    <Key>
+      <PropertyRef Name="Idpais" />
+    </Key>
+    <Property Name="Idpais" Type="char" MaxLength="3" Nullable="false" />
+    <Property Name="NombrePais" Type="varchar" MaxLength="40" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Negocios2021_2xModel1StoreContainer">
+    <EntitySet Name="paises" EntityType="Self.paises" Schema="Ventas" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

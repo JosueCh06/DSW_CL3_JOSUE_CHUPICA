@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Negocios2021_2xModel1StoreContainer" CdmEntityContainer="Negocios2021_2xEntitiePais">
+    <EntitySetMapping Name="paises">
+      <EntityTypeMapping TypeName="Negocios2021_2xModel1.paises">
+        <MappingFragment StoreEntitySet="paises">
+          <ScalarProperty Name="Idpais" ColumnName="Idpais" />
+          <ScalarProperty Name="NombrePais" ColumnName="NombrePais" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

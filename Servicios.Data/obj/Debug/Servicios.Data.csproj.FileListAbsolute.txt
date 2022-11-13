@@ -1,0 +1,12 @@
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Data\bin\Debug\Servicios.Data.dll.config
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Data\bin\Debug\Servicios.Data.dll
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Data\bin\Debug\Servicios.Data.pdb
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Data\bin\Debug\EntityFramework.dll
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Data\bin\Debug\EntityFramework.xml
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Data\obj\Debug\Servicios.Data.csproj.AssemblyReference.cache
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Data\obj\Debug\Servicios.Data.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Data\obj\Debug\Servicios.Data.csproj.CopyComplete
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Data\obj\Debug\Servicios.Data.dll
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Data\obj\Debug\Servicios.Data.pdb

@@ -1,0 +1,64 @@
+﻿@model Servicios.Dominio.Cliente
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>ELIMINAR</h2>
+
+<h3>¿SEGURO DE ELIMINAR?</h3>
+<div>
+    <h4>CLIENTE</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdCliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NomCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomCliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DirCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DirCliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.idpais)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idpais)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fonoCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fonoCliente)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,6 @@
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Dominio\bin\Debug\Servicios.Dominio.dll
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Dominio\bin\Debug\Servicios.Dominio.pdb
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Dominio\obj\Debug\Servicios.Dominio.csproj.AssemblyReference.cache
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Dominio\obj\Debug\Servicios.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Dominio\obj\Debug\Servicios.Dominio.dll
+C:\Users\Josue\Desktop\Lab_Desarrollo de servicios Web I\DSW_CL3_JOSUE_CHUPICA\APP_Servicios\Servicios.Dominio\obj\Debug\Servicios.Dominio.pdb
